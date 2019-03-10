@@ -1,3 +1,2 @@
-# imu
-Human Localization
-Without GPS
+# imu_localisation
+GPS-free localization using IMUs

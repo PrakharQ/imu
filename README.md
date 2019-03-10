@@ -1,2 +1,3 @@
-# imu_localisation
+# human_localisation
 GPS-free localization using IMUs
+Suraj Hanchinal
